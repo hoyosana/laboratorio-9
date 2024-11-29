@@ -1,9 +1,9 @@
  /* Estilos para el encabezado */
  header {
-    background-color: #4CAF50;
+    background-color: #7366b9;
     padding: 20px;
     text-align: center;
-    color: white;
+    color: rgb(197, 111, 111);
 }
 
 /* Estilos para la barra de navegación */
@@ -29,7 +29,7 @@ nav a:hover {
 }
 
 .container h2 {
-    color: #333;
+    color: #505c0b;
 }
 
 .container p {
